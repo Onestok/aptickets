@@ -1,0 +1,3 @@
+SHA256: 2543a070e1951493adf1fdfb0cca2fa8d56a833f54faa2bce1f010a4aaed55b7
+Path: /private/var/MobileAsset/Assets/com_apple_MobileAsset_MobileAccessoryUpdate_haywire/0c3a3ec90b546aa6d5bdffa74bd35b8d63c38e6f.asset/AssetData/amai/apticket.der
+Creation Date: 19.05.2020 21:42 CET - corresponds to a few days after the release of 12.3

@@ -1,0 +1,3 @@
+SHA256: d96a849377e3abcc2e0b69dad558b47f1ddbdff9ec4b176228214dd326e4b1ee
+Path: /private/preboot/707DA7BD80F96E6FE5C3DDB010C977BA9BE1C0F4/System/Library/Caches/apticket.der
+Creation Date: 16.09.2021 22:42 CET
